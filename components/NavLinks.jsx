@@ -14,10 +14,7 @@ const links = [
         name: "sobre",
         path: "/about"
     },
-    {
-        name: "certificados",
-        path: "/certificates"
-    },
+
     {
         name: "trabalhos",
         path: "/work"

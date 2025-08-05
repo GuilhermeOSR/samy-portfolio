@@ -2,22 +2,67 @@
 
 const journey = [
     {
-        years: "Jun 2024 - Nov 2024",
-        role: "Dev. Full Stack",
-        instituition: "Lua4"
+        years: "2018 - 2020",
+        role: "Técnico em TI",
+        instituition: "Aplicação"
     }, 
 
     {
-        years: "2023 - 2024",
-        role: "Pós-Graduação",
-        instituition: "PUC RIO"
+        years: "2022 - 2022",
+        role: "Design Thinking",
+        instituition: "Centro Universitário FIAP"
     }, 
 
     {
-        years: "2020 - 2022",
-        role: "Graduação",
-        instituition: "Universidade Potiguar"
+        years: "2022 - 2022",
+        role: "User Experience",
+        instituition: "Centro Universitário FIAP"
     }, 
+
+    {
+        years: "2022 - 2022",
+        role: "User Experience",
+        instituition: "Centro Universitário FIAP"
+    }, 
+
+        {
+        years: "2022 - 2025",
+        role: "Bacharelado em Design",
+        instituition: "Centro Universitário SENAC"
+    }, 
+
+    {
+        years: "2024 - 2025",
+        role: "Design Gráfico",
+        instituition: "Centro Universitário FIAP"
+    }, 
+
+    {
+        years: "2025 - 2025",
+        role: "Mobile Marketing",
+        instituition: "Centro Universitário FIAP"
+    }, 
+    /* Work experience*/
+
+    {
+        years: "2022 - 2022",
+        role: "Estágio em Design Web",
+        instituition: "Madis Rodbel"
+    }, 
+
+    {
+        years: "2023 - 2023",
+        role: "Estágio em Design Gráfico",
+        instituition: "Revista Experimental | Centro Universitário Senac"
+    }, 
+
+    {
+        years: "2024 - 2025",
+        role: "Estágio em Design de Produto",
+        instituition: "Estúdio De La Cruz"
+    }, 
+
+
 
 ]
 

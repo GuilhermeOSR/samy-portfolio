@@ -54,7 +54,7 @@ const About = () => {
                            <h2 className="h2 mb-6">
                             <span className="text-accent">Samyra</span> Andrade
                            </h2>
-                           <p className="max-w-[540px] mb-12">Foco em criar soluções completas, do visual ao funcional. Gosto de desenvolver  sistemas web personalizados, sempre pensando na autonomia do cliente. Aprendo rápido novas tecnologias e me adapto ao estilo de cada projeto.
+                           <p className="max-w-[540px] mb-12">Designer Gráfica criativa e focada, com experiência em ilustração, animação e modelagem 3D. Trabalho bem em equipe, sou adaptável, proativa e comprometida com qualidade e prazos.
                            </p>
                            <div className="flex flex-col items-start gap-16">
                                 <Info />

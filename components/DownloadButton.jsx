@@ -6,8 +6,8 @@ import { MdFileDownload } from "react-icons/md"
 const DownloadButton = () => {
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = '/Guilherme-CV.pdf';
-    link.setAttribute('download', 'Guilherme-CV.pdf');
+    link.href = '/Samyra-CV.pdf';
+    link.setAttribute('download', 'Samyra-CV.pdf');
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

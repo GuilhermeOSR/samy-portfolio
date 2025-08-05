@@ -35,7 +35,7 @@ const Home = () => {
           wrapper="span" speed={40} className="text-accent" repeat={Infinity}
           cursor={false}/>
         </h1>
-        <p className='max-w-[500px] mb-[44px]'>Desenvolvo interfaces e experiências digitais sob medida, unindo estética, usabilidade e estratégia.
+        <p className='max-w-[500px] mb-[44px]'>Designer Gráfica criativa e focada, com experiência em ilustração, animação e modelagem 3D.
         </p>
         <button className="btn btn-lg btn-accent mb-16">
           <div className="flex items-center gap-3">
