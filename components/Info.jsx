@@ -15,15 +15,16 @@ const Info = () => {
             <div className="w-[280px] flex items-start gap-4">
                 <HiOutlineUser className="text-2xl mt-1 text-accent" />
                 <div>
-                    <p className="text-lg">Data de Nascimento</p>
-                    <p >05 de Julho 2001</p>
+                    <p className="text-lg">Email</p>
+                    <p title="guilherme.o.santarosa@gmail.com">samyra.andradw26@gmail.com</p>
                 </div>
+               
             </div>
         <div className="w-[280px] flex items-start gap-4">
                 <HiOutlineMail className="text-2xl mt-1 text-accent"/>
-                <div>
-                    <p className="text-lg">Email</p>
-                    <p title="guilherme.o.santarosa@gmail.com">guilherme@gmail.com</p>
+                 <div>
+                    <p className="text-lg">Data de Nascimento</p>
+                    <p >26/12/2002</p>
                 </div>
             </div>
         </div>
@@ -33,14 +34,14 @@ const Info = () => {
                 <HiOutlinePhone className="text-2xl mt-1 text-accent" />
                 <div>
                     <p className="text-lg">Tel</p>
-                    <p >+55 (84)99144-2686</p>
+                    <p >+55 (11)96645-8736</p>
                 </div>
             </div>
         <div className="w-[280px] flex items-start gap-4">
                 <HiOutlineLocationMarker className="text-2xl mt-1 text-accent"/>
                 <div>
                     <p className="text-lg">Local</p>
-                    <p>Natal, Brazil</p>
+                    <p>São Paulo, Brazil</p>
                 </div>
             </div>
         </div>

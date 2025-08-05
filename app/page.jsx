@@ -65,16 +65,9 @@ const Home = () => {
       </div>
       <div className='hidden xl:block flex-1 relative z-20'>
         {/*blob e image*/}
-        <Blob containerStyles="w-[560px] h-[560px]"/>
+
         {/*avatar img */}
-        <Image 
-        src={avatarImage} 
-        alt="" 
-        width={440} 
-        height={600}
-        quality={100}
-        className='absolute -top-10 left-[120px]' 
-        />
+
         {/* Overlay */}
         <div className="w-full h-[165px] absolute
         bottom-0 left-0 right-0 bg-gradient-to-t from-primary via-primary/100 

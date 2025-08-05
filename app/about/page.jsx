@@ -4,11 +4,11 @@ import { motion } from "framer-motion"
 import { ScrollArea} from "@/components/ui/scroll-area"
 import Image from "next/image"
 
-import Stats from '@/components/Stats'
-import Testimonial from '@/components/Testimonial'
+//import Stats from '@/components/Stats'
+//import Testimonial from '@/components/Testimonial'
 import Info from '@/components/Info'
 import Journey from '@/components/Journey'
-import Skills from '@/components/Skills'
+//import Skills from '@/components/Skills'
 import Blob from '@/components/Blob'
 import Socials from '@/components/Socials'
 // Components
@@ -31,16 +31,9 @@ const About = () => {
                 {/*img e social icons */}
                 <div className='hidden xl:flex flex-col w-full h-full pt-14 max-w-[430px] relative
                  '>
-                <Image 
-                src="/assets/avatar.png" 
-                width={320}
-                height={496}
-                alt=""
-                className="z-20 relative"
-                />
+
                 {/* overlay */}
-                <div className="w-full h-[60px] absolute left-0 top-[320px] right-0
-                bg-gradient-to-t from-primary via-primary/90 z-30"></div>
+                
                 {/* blob */}
                 <div className="absolute top-[-10px] -left-[80px] z-10">
                     <Blob containerStyles="w-[420px] h-[420]" />
@@ -59,16 +52,13 @@ const About = () => {
                                 <p>Sobre mim</p>
                             </div>
                            <h2 className="h2 mb-6">
-                            <span className="text-accent">Guilherme</span> Santa Rosa
+                            <span className="text-accent">Samyra</span> Andrade
                            </h2>
                            <p className="max-w-[540px] mb-12">Foco em criar soluções completas, do visual ao funcional. Gosto de desenvolver  sistemas web personalizados, sempre pensando na autonomia do cliente. Aprendo rápido novas tecnologias e me adapto ao estilo de cada projeto.
                            </p>
                            <div className="flex flex-col items-start gap-16">
-                                <Stats />
-                                <Testimonial />
                                 <Info />
                                 <Journey />
-                                <Skills />
                            </div>
                         </div>
                 </ScrollArea>
