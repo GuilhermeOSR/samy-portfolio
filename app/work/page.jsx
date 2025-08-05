@@ -68,7 +68,7 @@ const projects = [
   },
   {
     id: 3,
-    title: "DUOSPOT",
+    title: "Duospot",
     images: [
       "/assets/work/proj3/thumb-3.png",
       "/assets/work/proj3/thumb-3-2.png",
@@ -84,7 +84,7 @@ const projects = [
   },
   {
     id: 4,
-    title: "Marca Jupa",
+    title: "Fouet",
     images: [
       "/assets/work/proj4/thumb-4.png",
       "/assets/work/proj4/thumb-4-2.png",
@@ -92,7 +92,7 @@ const projects = [
   },
   {
     id: 5,
-    title: "FOUET",
+    title: "Jupa",
     images: [
       "/assets/work/proj5/thumb-5.png",
       "/assets/work/proj5/thumb-5-2.png",
@@ -110,7 +110,7 @@ const projects = [
   },
   {
     id: 6,
-    title: "LIVRETO",
+    title: "Livreto",
     images: [
       "/assets/work/proj6/thumb-6.png",
       "/assets/work/proj6/thumb-6-2.png",
@@ -124,7 +124,7 @@ const projects = [
 
   {
     id: 7,
-    title: "LIVRO RPG",
+    title: "RPG",
     images: [
       "/assets/work/proj7/thumb-7.png",
       "/assets/work/proj7/thumb-7-2.png",
@@ -136,7 +136,7 @@ const projects = [
 
   {
     id: 8,
-    title: "Fonts",
+    title: "Tipografias",
     images: [
       "/assets/work/proj8/thumb-8.png",
       "/assets/work/proj8/thumb-8-2.png",

@@ -147,9 +147,9 @@ Mensagem: ${messageInput}
                                         <SelectValue placeholder="Escolha aqui" />
                                     </SelectTrigger>
                                     <SelectContent className="bg-black border-white/20">
-                                        <SelectItem value="fullstack">Site + Sistema</SelectItem>
-                                        <SelectItem value="frontend">Site</SelectItem>
-                                        <SelectItem value="backend">Sistema Web</SelectItem>
+                                        <SelectItem value="ilustração">Ilustração</SelectItem>
+                                        <SelectItem value="animação">Animação</SelectItem>
+                                        <SelectItem value="edição de vídeo">Edição de Vídeo</SelectItem>
                                     </SelectContent>
                                 </Select>
                             </div>
