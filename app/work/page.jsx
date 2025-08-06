@@ -173,7 +173,7 @@ const Work = () => {
             ))}
           </TabsList>
 
-          <div className="h-[600px] overflow-y-scroll scrollbar scrollbar-thumb-accent scrollbar-track-accent/5">
+          <div className="h-[600px] s-[300px] overflow-y-scroll scrollbar scrollbar-thumb-accent scrollbar-track-accent/5">
             {projects.map((project) => (
               <TabsContent key={project.id} value={project.title}>
                 <div className="space-y-6">
